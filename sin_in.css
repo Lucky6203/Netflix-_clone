@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #333;
+}
+
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #f3f3f3;
+    color: #333;
+    direction: ltr;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    background-image: url(bg.jpg);
+}
+.header{
+    background-color: #333;
+    background: transparent;
+}
+.img_bg{
+    background-image: url("bg.jpg");
+    background-position: center center;
+    background-size: max(1200px, 100vw);
+    background-repeat: no-repeat;
+    height: 644px;
+    position: relative;
+}
+.logo{
+    height: 100px;
+    width: 100%;
+}
+.logo img{
+    height: 70px;
+    width: 150px;
+    margin: 10px;
+    margin-left: 100px;
+}
+.login_bar{
+    display: flex;
+    height: 800px;
+    justify-content: center;
+}
+.login{
+    height: 600px;
+    width: 414px;
+    background-color: black;
+   color: white;
+   display: flex;
+   justify-content: center;
+}
+.login_1{
+    height: 350px;
+    width: 300px;
+   margin-top: 30px;
+}
+.header_singn{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 28px;
+}
+.login_foter{
+  height: 150px;
+  width: 300px;
+ 
+}
+.hero .input{
+    border: 0;
+    width: 100%;
+    border-radius: 4px;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+   background: #333;
+}
+.button_sin{
+    height: 50px;
+    width: 100%;
+    border-radius: 4px;
+    color: #fff;
+    background-color: red;
+}
+.me_box{
+    background: #737373;
+    border: 0;
+    border-radius: 2px;
+    height: 16px;
+    left: -20px;
+    width: 16px;
+}
+.me{
+    color: #b3b3b3;
+    font-size: 13px;
+    font-weight: 400;
+}
+.help{
+    margin-left: 90px;
+    color: #b3b3b3;
+    font-size: 13px;
+    font-weight: 400;
+}
+.login_foter .new{
+    margin-top: 60px;
+    color: #b3b3b3;
+}
+.login_foter .Learn_more{
+    color: #b3b3b3;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 10px;
+} */
